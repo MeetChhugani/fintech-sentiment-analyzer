@@ -41,6 +41,8 @@ A data analysis dashboard that explores the relationship between financial news 
 ---
 
 ## 📁 Project Structure
+
+```text
 fintech-sentiment-analyzer/
 ├── app/
 │   └── app.py          # Streamlit dashboard
@@ -49,6 +51,7 @@ fintech-sentiment-analyzer/
 ├── notebooks/
 │   └── 01_eda_analysis.ipynb
 └── requirements.txt
+```
 
 ---
 
